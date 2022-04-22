@@ -1,0 +1,11 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatArregloTextbox\WFmatArregloTextbox\obj\Debug\WFmatArregloTextbox.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatArregloTextbox\WFmatArregloTextbox\obj\Debug\WFmatArregloTextbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatArregloTextbox\WFmatArregloTextbox\obj\Debug\WFmatArregloTextbox.Form1.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatArregloTextbox\WFmatArregloTextbox\obj\Debug\WFmatArregloTextbox.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatArregloTextbox\WFmatArregloTextbox\obj\Debug\WFmatArregloTextbox.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatArregloTextbox\WFmatArregloTextbox\obj\Debug\WFmatArregloTextbox.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatArregloTextbox\WFmatArregloTextbox\bin\Debug\WFmatArregloTextbox.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatArregloTextbox\WFmatArregloTextbox\bin\Debug\WFmatArregloTextbox.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatArregloTextbox\WFmatArregloTextbox\bin\Debug\WFmatArregloTextbox.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatArregloTextbox\WFmatArregloTextbox\obj\Debug\WFmatArregloTextbox.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WFmatArregloTextbox\WFmatArregloTextbox\obj\Debug\WFmatArregloTextbox.pdb
